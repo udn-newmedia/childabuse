@@ -1,0 +1,34 @@
+/ mob_ill01 /
+mob_child.png  150x150
+mob_childBall.png  150x150
+mob_ill01_bottom.png  376x228
+mob_ill01_top.png  376x669
+mob_ill01_top01 562x411
+mob_ill01_middom 376x615
+mob_ill01_middom 562x561
+mob_title.png  299x100
+
+
+/ mob_ill02 /
+mob_ill02.jpg  376x667
+
+
+/ mob_ill03 /
+mob_ill03_00.jpg  376x667
+mob_ill03_01.png  376x667
+
+
+/ mob_ill04 /
+mob_ill04.jpg  1236x667
+
+
+/ mob_ill05 /
+mob_ill05_00.png  376x733
+mob_ill05_child.png  112x486
+mob_ill05_fromt.png  376x698
+mob_ill05_Lhand.png  175x555
+mob_ill05_Rhand.png  163x453
+
+
+/ mob_ill06 /
+mob_ill06.png  376x356
