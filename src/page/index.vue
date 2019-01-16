@@ -189,7 +189,7 @@
             <Relate title="延伸閱讀" 
                 href1="https://udn.com/upf/newmedia/2018_data/childabuse/page/help.html" :img1="relate_1" text1="我想幫孩子" 
                 href2="https://udn.com/news/story/7272/2872246" :img2="relate_2" text2="家扶公布十大兒保新聞 半數與性侵相關" 
-                href3="https://udn.com/news/story/7266/2805019" :img3="relate_3" text3="兒虐6成腦傷 每4人有1人重殘" 
+                href3="https://health.udn.com/health/story/5999/2806172" :img3="relate_3" text3="兒虐逾半是腦傷 醫師憂隱匿多" 
                 href4="https://health.udn.com/health/story/5999/2769721" :img4="relate_4" text4="尋找幽靈受虐兒 漏打疫苗挖線索" > 
             </Relate>
             <FbComment href="https://udn.com/upf/newmedia/2018_data/childabuse/index.html"></FbComment>
@@ -212,7 +212,7 @@ import Diversion from '../components/diversion.vue'
 
 import relate_1 from '../assets/relation/helpkid.jpg'
 import relate_2 from '../assets/relation/badinkid.jpg'
-import relate_3 from '../assets/relation/braindead.jpg'
+import relate_3 from '../assets/relation/1.jpg'
 import relate_4 from '../assets/relation/ghost.jpg'
 
 import Cover_2 from '../assets/mobile/cover_2.jpg'
